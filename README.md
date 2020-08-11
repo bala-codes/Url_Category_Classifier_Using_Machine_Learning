@@ -1,4 +1,7 @@
 # URL CATEGORY CLASSIFIER USING MACHINE LEARNING NLP
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
 ## In this project, I've trained some machine learning models to classify the url's across the categories Arts, Business, Computers, Games, Health, Home, Kids, News, Recreation, Reference, Science.
 
 ## Machine Learning algorithms (sklearn) used in this projects,
@@ -16,7 +19,7 @@
 
 ## After Hyperparameters tuning, the best Machine Learning Ensemble Score is 97.3%
 
-Checkout the ML based classifiers part 1 at [Google Colab](https://colab.research.google.com/github/bala-codes/URL-CATEGORY-CLASSIFIER-USING-MACHINE-LEARNING-NLP/blob/master/codes/1.%20URL%20Category%20Classifier%20Training%20and%20Testing.ipynb) and part 2 at [Google Colab](https://colab.research.google.com/github/bala-codes/URL-CATEGORY-CLASSIFIER-USING-MACHINE-LEARNING-NLP/blob/master/codes/2.%20URL%20Category%20Classifier%20Single%20Input%20Prediction.ipynb)
+Checkout the ML based classifiers part 1 here [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bala-codes/URL-CATEGORY-CLASSIFIER-USING-MACHINE-LEARNING-NLP/blob/master/codes/1.%20URL%20Category%20Classifier%20Training%20and%20Testing.ipynb) and part 2 here [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bala-codes/URL-CATEGORY-CLASSIFIER-USING-MACHINE-LEARNING-NLP/blob/master/codes/2.%20URL%20Category%20Classifier%20Single%20Input%20Prediction.ipynb)
 
 
 Excerpts :
