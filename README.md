@@ -2,7 +2,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-## In this project, I've trained some machine learning models to classify the url's across the categories Arts, Business, Computers, Games, Health, Home, Kids, News, Recreation, Reference, Science.
+## In this repo, I've trained some machine learning models to classify the url's across the categories Arts, Business, Computers, Games, Health, Home, Kids, News, Recreation, Reference, Science.
 
 ## Machine Learning algorithms (sklearn) used in this projects,
 
